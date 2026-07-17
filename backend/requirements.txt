@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+python-dotenv
+python-multipart
+langgraph
+langchain-core
+langchain-groq
+langchain-openai
+langchain-google-genai
+scikit-learn
+numpy
+# Optional (auto-used if present): richer embeddings / vector store
+sentence-transformers
+itsdangerous
+insightface
+onnxruntime
+opencv-python-headless
+pypdf
